@@ -1,0 +1,13 @@
+body {
+  font-family: "American Typewriter";
+  color: red;
+}
+h2 {
+  color: blue;
+}
+ul {
+  font-weight: bold;
+}
+.green {
+  color: green;
+}
